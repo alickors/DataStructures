@@ -1,8 +1,5 @@
 package com.atguigu.sparsearray;
 
-
-import java.util.Arrays;
-
 /**
  * @author alick
  * @description:
